@@ -1,0 +1,329 @@
+/*
+  Canonical identity.jsonld for 1 Euro SEO
+  This file is NOT active. It is a reference copy.
+  Live version: https://1euroseo.com/identity.jsonld
+  Version: 1.0
+  Published: 07.04.2026
+*/
+
+{
+  "@context": "https://schema.org",
+  "@id": "https://1euroseo.com/#identity",
+  "@type": "Organization",
+  "name": "1 Euro SEO",
+  "legalName": "1 Euro SEO",
+  "url": "https://1euroseo.com",
+  "logo": "https://1euroseo.com/wp-content/uploads/2026/03/1euroseo-logo.png",
+  "description": "The Automated Strategy Consultant and Model Context Optimization Engine. First-of-its-kind dual-spectrum diagnostic system fusing senior-level strategic business intelligence with AI-native semantic engineering â€” codifying elite consulting frameworks into a high-velocity engine that delivers enterprise-grade analysis in under five minutes.",
+  "slogan": "Your SEO Strategy. Delivered immediately. For â‚¬1.",
+  "foundingDate": "2026-03-30",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "42 Cluain Ard, Ballybrit",
+    "addressLocality": "Galway",
+    "postalCode": "H91 K3VF",
+    "addressCountry": "IE"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "hello@1euroseo.com",
+    "contactType": "customer support"
+  },
+  "founder": {
+    "@type": "Person",
+    "@id": "https://marinpopov.com/#person",
+    "name": "Marin Ivanov Popov",
+    "url": "https://marinpopov.com",
+    "jobTitle": "Founder & SEO Consultant",
+    "description": "Technical SEO specialist with 15+ years of experience, 1,000+ audits, and 300+ migrations across enterprise, agency, and freelance environments. Former Technical SEO Specialist at Randstad Global (50+ migrations launched, 40% organic traffic increase post-migration), SEO Manager at Ipanema Comunicacion and SEO Smoothie, and back-end developer at ArÃ³ Digital Strategy. Creator of the Model Context Optimization framework, the Machine Readability Framework, and the Semantic Anchor identity-layer proposal for llms.txt. MSc Telecommunications, Certified Digital Marketing Professional (DMI), Microsoft Certified Professional (HTML5/JS/CSS3).",
+    "sameAs": [
+      "https://www.linkedin.com/in/marin-popov/"
+    ],
+    "hasCredential": [
+      {
+        "@type": "EducationalOccupationalCredential",
+        "name": "Certified Digital Marketing Professional",
+        "credentialCategory": "Professional Certification",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "Digital Marketing Institute"
+        },
+        "dateCreated": "2020-06"
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "name": "MCPS: Programming in HTML5 with JavaScript and CSS3",
+        "credentialCategory": "Professional Certification",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "Microsoft"
+        },
+        "dateCreated": "2014"
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "name": "Master of Science in Telecommunications",
+        "credentialCategory": "Degree",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "Technical University of Sofia"
+        }
+      }
+    ],
+    "hasOccupation": [
+      {
+        "@type": "Role",
+        "roleName": "AI SEO Specialist",
+        "startDate": "2025-12",
+        "endDate": "2026-03",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "DEJAN Marketing",
+          "description": "Leading AI-driven SEO agency focused on search visibility, answer-engine optimisation, and advanced machine-learning-powered SEO strategies."
+        },
+        "description": "AI-powered SEO strategies for enterprise clients across gambling, health, and large-scale e-commerce. Advanced technical audits using ML-driven prioritisation. Semantic structure and topical authority optimisation for AI model interpretation."
+      },
+      {
+        "@type": "Role",
+        "roleName": "SEO Senior Consultant",
+        "startDate": "2025-01",
+        "endDate": "2025-12",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "iSocialWeb"
+        },
+        "description": "Managed 10+ client portfolio across international markets. Led technical audits, content strategy, Core Web Vitals optimization, and advanced link-building. Coordinated with CRO, UX, and development teams."
+      },
+      {
+        "@type": "Role",
+        "roleName": "Freelance SEO Consultant",
+        "startDate": "2010",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Marin Popov SEO Consulting",
+          "url": "https://marinpopov.com"
+        },
+        "description": "Independent SEO consultancy delivering strategic audits, technical SEO, and organic performance optimization."
+      },
+      {
+        "@type": "Role",
+        "roleName": "Technical SEO Specialist",
+        "startDate": "2022-03",
+        "endDate": "2024-01",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Randstad Global",
+          "url": "https://www.randstad.com",
+          "description": "Global leader in HR services."
+        },
+        "description": "Optimised global web job platforms for Randstad operating companies. Launched 50+ website migrations. Achieved 40% organic traffic increase within 3 months post-migration. Improved site speed by 60%. Increased user engagement by 30%."
+      },
+      {
+        "@type": "Role",
+        "roleName": "SEO Project Manager",
+        "startDate": "2022-01",
+        "endDate": "2022-03",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Kala Agency",
+          "description": "Multilingual SEO agency serving enterprise clients across international markets."
+        },
+        "description": "Weekly SEO maintenance, audit support, keyword research, monthly content planning, and client project coordination. Achieved 30% organic traffic increase and 14% bounce rate reduction."
+      },
+      {
+        "@type": "Role",
+        "roleName": "SEO Manager",
+        "startDate": "2021-08",
+        "endDate": "2022-01",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Ipanema Comunicacion S.L.",
+          "description": "Digital marketing company dedicated to Inbound Marketing, Account-Based Marketing, and luxury brand growth."
+        },
+        "description": "Led SEO and conversion optimization with a team of 2 executives and 3 account managers."
+      },
+      {
+        "@type": "Role",
+        "roleName": "SEO Manager",
+        "startDate": "2019-10",
+        "endDate": "2021-08",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "SEO Smoothie",
+          "description": "Full-service SEO agency."
+        },
+        "description": "Created and implemented SEO strategies. Led complex SEO projects end-to-end. Increased organic traffic by 40% through local branch keyword optimization. Improved site speed by 60%."
+      },
+      {
+        "@type": "Role",
+        "roleName": "Technical SEO Manager",
+        "startDate": "2018-10",
+        "endDate": "2019-10",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "SEO Smoothie"
+        },
+        "description": "Outlined and implemented strategies to enhance website visibility, usability, and user experience with focus on technical elements impacting SEO."
+      },
+      {
+        "@type": "Role",
+        "roleName": "Back-End Web Developer & Technical SEO Specialist",
+        "startDate": "2013-05",
+        "endDate": "2018-10",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "ArÃ³ Digital Strategy",
+          "description": "Digital marketing agency based in Galway, Ireland."
+        },
+        "description": "Back-end development, Technical SEO optimization, QA, CMS maintenance, email marketing automation, e-commerce platform development, GDPR implementation, and tracking code integration across all products."
+      }
+    ],
+    "award": "Best SEO Audit Service Provider 2022",
+    "knowsAbout": [
+      "SEO Strategy",
+      "Technical SEO",
+      "Model Context Optimization",
+      "Structured Data (Schema.org)",
+      "Machine Readability",
+      "Knowledge Graph Architecture",
+      "Entity Graph Optimization",
+      "AI-Native Technical SEO",
+      "Enterprise SEO",
+      "International SEO",
+      "Website Migration",
+      "Pricing Psychology",
+      "Brand Positioning",
+      "Conversion Architecture",
+      "E-E-A-T Programmatic Verification",
+      "AI Search Visibility",
+      "Answer Engine Optimisation",
+      "Core Web Vitals",
+      "Back-End Web Development"
+    ],
+    "knowsLanguage": ["en", "es", "ru", "bg"],
+    "worksFor": {
+      "@id": "https://1euroseo.com/#identity"
+    }
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/1-euro-seo",
+    "https://www.facebook.com/1euroseo/",
+    "https://www.youtube.com/@1EuroSEO",
+    "https://www.trustpilot.com/review/1euroseo.com"
+  ],
+  "knowsAbout": [
+    "Model Context Optimization",
+    "Machine Readability Framework",
+    "Structured Data (Schema.org)",
+    "Entity-Relationship Modeling",
+    "Knowledge Graph Architecture",
+    "Persistent URI @id Strategy",
+    "Triangular Authority Chains",
+    "E-E-A-T Programmatic Verification",
+    "Semantic Anchor Identity Layer",
+    "llms.txt Protocol",
+    "Ghost Node Detection",
+    "Orphan Taxonomy Repair",
+    "Hub-and-Spoke Entity Topology",
+    "AI-Native Technical SEO",
+    "Semantic HTML",
+    "URL & Canonical Hygiene",
+    "Internal Linking Architecture",
+    "Crawlability & Indexation",
+    "Media Metadata Optimization",
+    "Technical UX & Accessibility",
+    "SEO Strategy",
+    "Competitive Intelligence",
+    "Pricing Psychology",
+    "Brand Positioning",
+    "Customer Journey Optimization",
+    "Conversion Architecture",
+    "AI Search Retrieval",
+    "Retrieval-Augmented Generation (RAG) Optimization",
+    "Search Generative Experience (SGE)"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "1 Euro SEO Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "@id": "https://1euroseo.com/#strategic-audit",
+        "name": "AI-Powered Strategic Marketing Audit",
+        "description": "14-dimension business diagnostic covering value proposition clarity, brand positioning, pricing psychology, target audience alignment, SEO architecture, UX friction, customer journey gaps, conversion architecture, competitive landscape, differentiation factors, competitive advantages, weakness exposure, emerging threats, and AI-cannibalization risk. Delivered as an Interactive HTML Strategy Dashboard.",
+        "url": "https://1euroseo.com/generate/",
+        "price": "1.00",
+        "priceCurrency": "EUR"
+      },
+      {
+        "@type": "Offer",
+        "@id": "https://1euroseo.com/#priority-actions",
+        "name": "Top Priority Actions Report",
+        "description": "ROI-driven execution roadmap identifying high-impact quick wins, strategic pivots, pricing improvements, differentiation opportunities, and UX revenue recovery points â€” prioritized by commercial impact.",
+        "price": "2.99",
+        "priceCurrency": "EUR"
+      },
+      {
+        "@type": "Offer",
+        "@id": "https://1euroseo.com/#full-roadmap",
+        "name": "Full Strategic Roadmap",
+        "description": "Complete strategic execution plan with competitive positioning shifts, AI-threat mitigation, and a prioritized three-tiered implementation plan (Critical, Important, Strategic).",
+        "price": "7.99",
+        "priceCurrency": "EUR"
+      },
+      {
+        "@type": "Offer",
+        "@id": "https://1euroseo.com/#structured-data-audit",
+        "name": "Structured Data AI Audit (MCO)",
+        "description": "High-fidelity Entity-Relationship Audit executing per-page entity type detection, @id chain validation, graph connectivity analysis, schema completeness scoring, AI interpretation vs expected interpretation, Ghost Node identification, orphan taxonomy detection, and generation of correct nested JSON-LD with Persistent URI @id Strategy. Provides a clinical AI Retrieval Score (0â€“100) per page.",
+        "url": "https://1euroseo.com/ai-seo/structured-data-audit/",
+        "price": "1.00",
+        "priceCurrency": "EUR"
+      },
+      {
+        "@type": "Offer",
+        "@id": "https://1euroseo.com/#free-brand-scan",
+        "name": "Free Brand Scan",
+        "description": "Free single-page strategic analysis.",
+        "url": "https://1euroseo.com/free-strategic-seo-audit/",
+        "price": "0",
+        "priceCurrency": "EUR"
+      }
+    ]
+  },
+  "makesOffer": [
+    {
+      "@type": "Service",
+      "@id": "https://1euroseo.com/#strategy-engine",
+      "name": "Automated Strategy Consultant",
+      "description": "AI engine that codifies elite consulting frameworks â€” Positioning Theory, Pricing Psychology, Conversion Architecture, Competitive Intelligence, and Customer Journey Mapping â€” into a high-velocity diagnostic that produces enterprise-grade Strategic Fingerprints across 14+ specialized modules.",
+      "url": "https://1euroseo.com/generate/"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://1euroseo.com/#mco-engine",
+      "name": "Model Context Optimization Engine",
+      "description": "Semantic Infrastructure Blueprint that transforms flat HTML into a High-Density Knowledge Graph optimized for LLM ingestion, RAG retrieval, and SGE citation. Executes Semantic Type Reclassification, repairs Ghost Nodes and orphan taxonomies, implements Persistent URI @id Strategy, and mandates Triangular Authority Chains linking Organization, CreativeWork, and credentialed Person entities for E-E-A-T Programmatic Verification.",
+      "url": "https://1euroseo.com/ai-seo/structured-data-audit/"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://1euroseo.com/#mco-framework",
+      "name": "Machine Readability Framework",
+      "description": "Eight-pillar AI-era technical framework: Structured Data, Semantic HTML, URL & Canonical Hygiene, Internal Linking Architecture, Crawlability & Indexation, Media Metadata, Performance & Stability, Technical UX & Accessibility.",
+      "url": "https://1euroseo.com/ai-seo/machine-readability-framework/"
+    }
+  ],
+  "areaServed": {
+    "@type": "Place",
+    "name": "Global"
+  },
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Irish Company Registration Number",
+      "value": "782629",
+      "url": "https://1euroseo.com/wp-content/uploads/2026/03/CR23852288-133398475.pdf"
+    }
+  ]
+}
