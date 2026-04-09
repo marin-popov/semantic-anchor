@@ -12,10 +12,10 @@ It describes content, but it does not prove who is making the declaration.
 
 The Semantic Anchor introduces a single header that binds llms.txt to a canonical JSON‑LD identity resource, enabling:
 
-- deterministic trust
+- structured identity resolution
 - token efficiency
 - persistent entity coherence
-- verifiable authority for AI systems
+- machine-readable provenance
 - zero duplication and zero drift
 
 ## The Header
