@@ -25,7 +25,7 @@ Identity: https://example.com/identity.jsonld
 This header must appear at the top of llms.txt.
 It binds the text file to a canonical JSON‑LD identity node.
 
-## Canonical Implementation (Live on 1EuroSEO.com)
+## Reference Implementation (Live on 1EuroSEO.com)
 
 The official, production llms.txt and identity.jsonld for 1 Euro SEO are hosted on the domain itself:
 
