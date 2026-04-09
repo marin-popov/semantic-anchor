@@ -1,3 +1,5 @@
+Status: Draft Proposal (v1.0)
+
 # Semantic Anchor — Identity Layer Standard for llms.txt
 
 The Semantic Anchor is a protocol‑level identity extension for the llms.txt standard.
