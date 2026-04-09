@@ -27,6 +27,7 @@ It binds the text file to a canonical JSON‑LD identity node.
 
 ## Reference Implementation (Live on 1EuroSEO.com)
 
+1 Euro SEO is the first production deployment of the Semantic Anchor pattern, serving as the live reference implementation for this draft proposal.
 The official, production llms.txt and identity.jsonld for 1 Euro SEO are hosted on the domain itself:
 
 - https://1euroseo.com/llms.txt
