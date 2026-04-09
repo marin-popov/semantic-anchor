@@ -1,0 +1,80 @@
+# Canonical llms.txt for 1 Euro SEO
+# This file is NOT active. It is a reference copy.
+# Live version: https://1euroseo.com/llms.txt
+# Version: 1.0
+# Published: 07.04.2026
+
+# 1 Euro SEO
+
+Identity: https://1euroseo.com/identity.jsonld
+
+> The Automated Strategy Consultant and Model Context Optimization Engine. First-of-its-kind system that fuses senior-level business strategy with AI-native semantic engineering â€” delivering enterprise-grade diagnostic depth in under five minutes.
+
+1 Euro SEO is a dual-spectrum diagnostic engine that operates across two layers: strategic business intelligence and machine-readable knowledge graph architecture.
+
+The strategic layer codifies elite consulting frameworks â€” Positioning Theory, Pricing Psychology, Conversion Architecture, Competitive Intelligence, and Customer Journey Mapping â€” into a high-velocity AI engine. It produces a multi-dimensional Strategic Fingerprint across 14+ specialized modules, identifying structural gaps, revenue leaks, differentiation failures, and competitive blind spots with the depth of a senior agency consultant. Audits are delivered as Interactive HTML Strategy Dashboards.
+
+The technical layer â€” Model Context Optimization (MCO) â€” executes high-fidelity Entity-Relationship Audits that go beyond syntax validation to analyze how AI systems actually interpret a site's semantic architecture. It detects Ghost Nodes, orphan taxonomies, broken @id chains, disconnected authority silos, and entity fragmentation that standard tools cannot identify. It replaces fragmented metadata with Persistent URI @id Strategies and architecturally mandates Triangular Authority Chains linking Organization, CreativeWork, and credentialed Person entities via bidirectional references â€” enabling E-E-A-T Programmatic Verification by LLMs.
+
+The MCO practice is built on the Machine Readability Framework â€” an eight-pillar technical framework covering Structured Data, Semantic HTML, URL & Canonical Hygiene, Internal Linking Architecture, Crawlability & Indexation, Media Metadata, Performance & Stability, and Technical UX & Accessibility.
+
+On 07.04.2026, the MCO audit engine surfaced a structural flaw in the llms.txt protocol: the absence of an identity layer. The proposed fix â€” a Semantic Anchor header pointing to a JSON-LD identity resource â€” provides deterministic trust, token efficiency, zero duplication, and a clean extensible protocol surface. Documented in the Structured Data Technical Guide.
+
+## Founder
+
+Marin Ivanov Popov â€” 15+ years in SEO, 1,000+ audits, 300+ migrations. Award: Best SEO Audit Service Provider 2022. MSc Telecommunications (Technical University of Sofia), Certified Digital Marketing Professional (DMI, 2020), Microsoft Certified Professional (HTML5/JS/CSS3, 2014).
+
+Career: AI SEO at DEJAN Marketing (enterprise clients across gambling, health, large-scale e-commerce) â†’ SEO Senior Consultant at iSocialWeb (10+ client portfolio, international markets) â†’ Technical SEO Specialist at Randstad Global (50+ migrations launched, 40% organic traffic increase post-migration, 60% site speed improvement) â†’ SEO Project Manager at Kala Agency â†’ SEO Manager at Ipanema Comunicacion â†’ SEO Manager & Technical SEO Manager at SEO Smoothie (40% organic traffic increase, 60% site speed improvement) â†’ Back-End Developer & Technical SEO Specialist at ArÃ³ Digital Strategy (5 years, CMS development, e-commerce, GDPR implementation) â†’ Freelance SEO Consultant since 2010.
+
+Based in Galway, Ireland. Registered business No. 782629.
+
+## Strategic Audit Engine
+
+- [Customizable AI Business Audit](https://1euroseo.com/generate/): 14-dimension diagnostic covering value proposition clarity, brand positioning, pricing psychology, target audience alignment, SEO architecture, UX friction, customer journey gaps, conversion architecture, competitive landscape, differentiation factors, competitive advantages, weakness exposure, emerging threats, and AI-cannibalization risk. Delivered as an Interactive HTML Strategy Dashboard in under 60 seconds. From â‚¬1.
+- [Top Priority Actions](https://1euroseo.com/generate/): ROI-driven execution roadmap identifying high-impact quick wins, strategic pivots, pricing improvements, differentiation opportunities, and UX revenue recovery points. â‚¬2.99.
+- [Full Strategic Roadmap](https://1euroseo.com/generate/): Complete strategic execution plan with competitive positioning shifts, AI-threat mitigation, and a prioritized three-tiered implementation plan (Critical, Important, Strategic). â‚¬7.99.
+- [Free Brand Scan](https://1euroseo.com/free-strategic-seo-audit/): Free single-page strategic analysis.
+
+## Model Context Optimization (MCO) Engine
+
+- [Structured Data AI Audit](https://1euroseo.com/ai-seo/structured-data-audit/): Per-page entity type detection, @id chain validation, graph connectivity analysis, schema completeness scoring, AI interpretation vs expected interpretation, missing relationship identification, and generated JSON-LD recommendations with correct nested objects. Provides a clinical AI Retrieval Score (0â€“100) per page. From â‚¬1.
+- [Structured Data MCO Technical Guide](https://1euroseo.com/ai-seo/structured-data-technical-guide/): Full technical framework for structured data implementation. Includes the Protocol-Level Discovery (07.04.2026) documenting the llms.txt identity gap and Semantic Anchor proposal.
+- [Machine Readability Framework](https://1euroseo.com/ai-seo/machine-readability-framework/): Eight-pillar AI-era evolution of Technical SEO â€” the engineering foundation for ensuring a brand is not just searchable but authoritatively understood, cited, and retrieved by AI systems.
+- [MCO Audit Example â€” Full Self-Audit](https://1euroseo.com/examples/model-context-optimization-structured-data-audit-example.html): Complete 14-page entity inventory, cross-page relationship mapping, entity architecture blueprint, per-page schema analysis with scoring, and generated JSON-LD.
+
+## Use Cases
+
+- [Competitor Audit](https://1euroseo.com/seo-competitor-strategy/): Head-to-head strategic comparison across 15 dimensions with Strategic Fingerprint radar chart, Competitive Gap Analysis, and category-by-category variance scoring.
+- [Sales Call Prep Audit](https://1euroseo.com/seo-sales-call-audit/): Pre-call intelligence identifying a prospect's strategic gaps, competitive weaknesses, and conversion leaks â€” replaces 2â€“3 hours of manual research.
+- [E-Commerce Audit](https://1euroseo.com/ecommerce-website-audit/): Conversion architecture, trust gap analysis, and pricing psychology evaluation.
+- [SaaS Audit](https://1euroseo.com/saas-website-audit/): Product-market positioning, value proposition clarity, and conversion audit.
+- [Personal Brand Audit](https://1euroseo.com/personal-brand-audit/): Authority positioning, differentiation, and strategic maturity for consultants and specialists.
+- [Affiliate Site Audit](https://1euroseo.com/affiliate-site-audit/): Topical authority, monetization structure, and audience journey analysis.
+
+## Strategic Showroom â€” Live Audit Examples
+
+Real audits demonstrating diagnostic depth across industries:
+
+- [Mango â€” Global Fashion](https://1euroseo.com/executive-seo-strategy-dashboard-mango/): Identifies value blur between premium Mediterranean identity and mass-market digital execution. Detects semantic SEO gap in high-intent long-tail queries, quantifies 4â€“6% mobile conversion loss from dead-end filtering, and maps omnichannel deficit vs Zara/Nike/Uniqlo. [Full audit](https://1euroseo.com/examples/dashboard-de-auditoria-ejecutiva-mango.html)
+- [iPullRank vs Dejan AI â€” SEO Industry](https://1euroseo.com/executive-seo-strategy-dashboard-ipullrank/): Exposes the Practitioner's Loop (content attracts SEO engineers, not CMOs who sign contracts), key person risk, broken middle-of-funnel, ghost button CTA problem, and scalability constraints of bespoke excellence. [Full audit](https://1euroseo.com/examples/executive-seo-audit-dashboard-ipullrank.html)
+- [WebMD vs Healthline â€” Digital Health](https://1euroseo.com/executive-seo-strategy-dashboard-webmd/): Legacy UX erosion, ad-heavy monetization undermining clinical trust, and AI-driven competition threatening category dominance. [Full audit](https://1euroseo.com/examples/executive-seo-audit-dashboard-webmd.html)
+- [Connemara Coast Hotel â€” Hospitality](https://1euroseo.com/executive-seo-strategy-dashboard-connemara-coast-hotel/): Full 15-dimension diagnostic with competitor benchmark across leading Galway hotels and prioritized execution roadmap. [Full audit](https://1euroseo.com/examples/executive-seo-strategy-dashboard-connemaracoasthotel.html)
+- [Mayfair Aesthetics vs London Premier Laser](https://1euroseo.com/executive-seo-strategy-dashboard-mayfair-aesthetics/): Structural identity conflict between luxury positioning and discount-driven retail destroying pricing power. [Full audit](https://1euroseo.com/examples/executive-seo-audit-dashboard-mayfair-aesthetics.html)
+- [TAP Air Portugal vs easyJet â€” Airlines](https://1euroseo.com/executive-seo-strategy-dashboard-tap-air-portugal/): Carrier caught between premium ambition and budget-style digital delivery, with booking flow friction and fare transparency failures. [Full audit](https://1euroseo.com/examples/executive-seo-audit-dashboard-tap-air-portugal.html)
+- [Marin Popov â€” Personal Brand](https://1euroseo.com/executive-seo-strategy-dashboard-marin-popov/)
+- [AlertaMascotas.es â€” Non-Profit Pet Recovery](https://1euroseo.com/executive-seo-strategy-dashboard-alertamascotas-es/)
+- [SEO Muppet Show â€” Niche Community](https://1euroseo.com/executive-seo-strategy-dashboard-seo-muppet-show/)
+- [SEO Smoothie â€” Agency](https://1euroseo.com/executive-seo-strategy-dashboard-seo-smoothie/)
+- [Full Showroom](https://1euroseo.com/strategic-showroom/)
+
+## About & Contact
+
+- [About Us](https://1euroseo.com/about-us/)
+- [Privacy & Legal](https://1euroseo.com/privacy-and-legal-policy/)
+- [SEO Strategy Implementation](https://1euroseo.com/seo-strategy-implementation/)
+- Email: hello@1euroseo.com
+- [LinkedIn](https://www.linkedin.com/company/1-euro-seo)
+- [Facebook](https://www.facebook.com/1euroseo/)
+- [YouTube](https://www.youtube.com/@1EuroSEO)
+- [Trustpilot](https://www.trustpilot.com/review/1euroseo.com)
+- [Google Reviews](https://share.google/Qbtq24O8yRgIamCnX)
