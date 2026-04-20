@@ -39,3 +39,22 @@ This repository contains reference copies only:
 - canonical-identity.jsonld
 
 These files are included for documentation, versioning, and provenance.
+
+### Real‑World Retrieval Observation (20.04.2026)
+
+On 20.04.2026, an interaction with Gemini surfaced both `llms.txt` and `identity.jsonld` in a conversation where these files were never mentioned.
+The model referenced them as part of its reasoning, indicating that the retrieval layer autonomously:
+
+- discovered the files
+- fetched them
+- parsed them
+- incorporated them into its context window
+
+The files contain the identity layer introduced in this draft proposal.
+This event serves as an accidental proof‑of‑concept that the Semantic Anchor pattern is discoverable and machine‑interpretable by real LLM retrieval systems.
+
+### Evidence (Screenshot)
+
+The following screenshot shows the Gemini output in which both `llms.txt` and `identity.jsonld` were referenced without being mentioned in the conversation. Sensitive parts are intentionally redacted.
+
+![Gemini Retrieval Screenshot](./examples/gemini-retrieval-proof.png)
