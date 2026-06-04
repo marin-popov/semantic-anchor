@@ -2,8 +2,8 @@
   Canonical identity.jsonld for 1 Euro SEO
   This file is NOT active. It is a reference copy.
   Live version: https://1euroseo.com/identity.jsonld
-  Version: 1.0
-  Published: 07.04.2026
+  Version: 1.1
+  Published: 04.06.2026
 */
 
 {
@@ -13,9 +13,20 @@
   "name": "1 Euro SEO",
   "legalName": "1 Euro SEO",
   "url": "https://1euroseo.com",
+  "subjectOf": {
+    "@type": "CreativeWork",
+    "@id": "https://github.com/marin-popov/semantic-anchor#protocol",
+    "name": "Semantic Anchor Identity Layer Specification",
+    "url": "https://github.com/marin-popov/semantic-anchor",
+    "description": "The deterministic identity protocol for llms.txt and Model Context Optimization.",
+    "author": { "@id": "https://marinpopov.com/#person" },
+    "publisher": { "@id": "https://1euroseo.com/#identity" },
+    "datePublished": "2026-06-04"
+  },
+  "publishingPrinciples": "https://github.com/marin-popov/semantic-anchor",
   "logo": "https://1euroseo.com/wp-content/uploads/2026/03/1euroseo-logo.png",
-  "description": "The Automated Strategy Consultant and Model Context Optimization Engine. First-of-its-kind dual-spectrum diagnostic system fusing senior-level strategic business intelligence with AI-native semantic engineering â€” codifying elite consulting frameworks into a high-velocity engine that delivers enterprise-grade analysis in under five minutes.",
-  "slogan": "Your SEO Strategy. Delivered immediately. For â‚¬1.",
+  "description": "The Automated Strategy Consultant and Model Context Optimization Engine. First-of-its-kind dual-spectrum diagnostic system fusing senior-level strategic business intelligence with AI-native semantic engineering — codifying elite consulting frameworks into a high-velocity engine that delivers enterprise-grade analysis in under five minutes.",
+  "slogan": "Your SEO Strategy. Delivered immediately. For €1.",
   "foundingDate": "2026-03-30",
   "address": {
     "@type": "PostalAddress",
@@ -35,10 +46,21 @@
     "name": "Marin Ivanov Popov",
     "url": "https://marinpopov.com",
     "jobTitle": "Founder & SEO Consultant",
-    "description": "Technical SEO specialist with 15+ years of experience, 1,000+ audits, and 300+ migrations across enterprise, agency, and freelance environments. Former Technical SEO Specialist at Randstad Global (50+ migrations launched, 40% organic traffic increase post-migration), SEO Manager at Ipanema Comunicacion and SEO Smoothie, and back-end developer at ArÃ³ Digital Strategy. Creator of the Model Context Optimization framework, the Machine Readability Framework, and the Semantic Anchor identity-layer proposal for llms.txt. MSc Telecommunications, Certified Digital Marketing Professional (DMI), Microsoft Certified Professional (HTML5/JS/CSS3).",
+    "description": "Technical SEO specialist with 15+ years of experience, 1,000+ audits, and 300+ migrations across enterprise, agency, and freelance environments. Former Technical SEO Specialist at Randstad Global (50+ migrations launched, 40% organic traffic increase post-migration), SEO Manager at Ipanema Comunicacion and SEO Smoothie, and back-end developer at Aró Digital Strategy. Creator of the Model Context Optimization framework, the Machine Readability Framework, and the Semantic Anchor identity-layer proposal for llms.txt. MSc Telecommunications, Certified Digital Marketing Professional (DMI), Microsoft Certified Professional (HTML5/JS/CSS3).",
     "sameAs": [
-      "https://www.linkedin.com/in/marin-popov/"
+      "https://www.linkedin.com/in/marin-popov/",
+      "https://github.com/marin-popov/"
     ],
+    "subjectOf": {
+      "@type": "CreativeWork",
+      "@id": "https://github.com/marin-popov/semantic-anchor#protocol",
+      "name": "Semantic Anchor Identity Layer Specification",
+      "url": "https://github.com/marin-popov/semantic-anchor",
+      "description": "The deterministic identity protocol for llms.txt and Model Context Optimization.",
+      "author": { "@id": "https://marinpopov.com/#person" },
+      "publisher": { "@id": "https://1euroseo.com/#identity" },
+      "datePublished": "2026-04-07"
+    },
     "hasCredential": [
       {
         "@type": "EducationalOccupationalCredential",
@@ -49,6 +71,16 @@
           "name": "Digital Marketing Institute"
         },
         "dateCreated": "2020-06"
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "name": "70-483: Programming in C#",
+        "credentialCategory": "Professional Certification",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "Microsoft"
+        },
+        "dateCreated": "2014"
       },
       {
         "@type": "EducationalOccupationalCredential",
@@ -70,7 +102,16 @@
         }
       }
     ],
-    "hasOccupation": [
+    "worksFor": [
+        {
+        "@type": "Role",
+        "roleName": "Founder & SEO Consultant",
+        "startDate": "2026-03-30",
+        "worksFor": {
+          "@id": "https://1euroseo.com/#identity"
+        },
+        "description": "Founder and strategic architect of the Model Context Optimization (MCO) framework and the Semantic Anchor Identity Layer. Leading enterprise-grade AI-native SEO strategy and semantic engineering."
+      },
       {
         "@type": "Role",
         "roleName": "AI SEO Specialist",
@@ -172,7 +213,7 @@
         "endDate": "2018-10",
         "worksFor": {
           "@type": "Organization",
-          "name": "ArÃ³ Digital Strategy",
+          "name": "Aró Digital Strategy",
           "description": "Digital marketing agency based in Galway, Ireland."
         },
         "description": "Back-end development, Technical SEO optimization, QA, CMS maintenance, email marketing automation, e-commerce platform development, GDPR implementation, and tracking code integration across all products."
@@ -200,10 +241,7 @@
       "Core Web Vitals",
       "Back-End Web Development"
     ],
-    "knowsLanguage": ["en", "es", "ru", "bg"],
-    "worksFor": {
-      "@id": "https://1euroseo.com/#identity"
-    }
+    "knowsLanguage": ["en", "es", "ru", "bg"]
   },
   "sameAs": [
     "https://www.linkedin.com/company/1-euro-seo",
@@ -259,7 +297,7 @@
         "@type": "Offer",
         "@id": "https://1euroseo.com/#priority-actions",
         "name": "Top Priority Actions Report",
-        "description": "ROI-driven execution roadmap identifying high-impact quick wins, strategic pivots, pricing improvements, differentiation opportunities, and UX revenue recovery points â€” prioritized by commercial impact.",
+        "description": "ROI-driven execution roadmap identifying high-impact quick wins, strategic pivots, pricing improvements, differentiation opportunities, and UX revenue recovery points — prioritized by commercial impact.",
         "price": "2.99",
         "priceCurrency": "EUR"
       },
@@ -275,10 +313,31 @@
         "@type": "Offer",
         "@id": "https://1euroseo.com/#structured-data-audit",
         "name": "Structured Data AI Audit (MCO)",
-        "description": "High-fidelity Entity-Relationship Audit executing per-page entity type detection, @id chain validation, graph connectivity analysis, schema completeness scoring, AI interpretation vs expected interpretation, Ghost Node identification, orphan taxonomy detection, and generation of correct nested JSON-LD with Persistent URI @id Strategy. Provides a clinical AI Retrieval Score (0â€“100) per page.",
+        "description": "High-fidelity Entity-Relationship Audit executing per-page entity type detection, @id chain validation, graph connectivity analysis, schema completeness scoring, AI interpretation vs expected interpretation, Ghost Node identification, orphan taxonomy detection, and generation of correct nested JSON-LD with Persistent URI @id Strategy. Provides a clinical AI Retrieval Score (0–100) per page.",
         "url": "https://1euroseo.com/ai-seo/structured-data-audit/",
         "price": "1.00",
-        "priceCurrency": "EUR"
+        "priceCurrency": "EUR",
+        "subjectOf": {
+          "@type": "CreativeWork",
+          "name": "MCO Structured Data Audit Sample Output",
+          "url": "https://1euroseo.com/examples/model-context-optimization-structured-data-audit-example.html",
+          "description": "A 4-step Entity Architecture Blueprint diagnosing Knowledge Graph Topology, @id identifier integrity, and AI Retrieval Impact."
+        }
+      },
+      {
+        "@type": "Offer",
+        "@id": "https://1euroseo.com/#semantic-html-audit",
+        "name": "Semantic HTML AI Audit (MCO)",
+        "description": "Machine Readability diagnostic analyzing HTML skeletons for RAG optimization. Evaluates heading hierarchy, landmark isolation, DOM nesting depth, and chunking stability. Provides a Machine Readability Index (0–100) to ensure content is select-ready for LLM retrieval.",
+        "url": "https://1euroseo.com/ai-seo/semantic-html-audit/",
+        "price": "1.00",
+        "priceCurrency": "EUR",
+        "subjectOf": {
+          "@type": "CreativeWork",
+          "name": "Semantic HTML Machine Readability Audit Sample Output",
+          "url": "https://1euroseo.com/examples/semantic-html-machine-readability-audit.html",
+          "description": "A high-fidelity diagnostic of the Machine Readability Index (MRI), evaluating DOM skeleton integrity across 7 Pillars of context optimization."
+        }
       },
       {
         "@type": "Offer",
@@ -292,28 +351,37 @@
     ]
   },
   "makesOffer": [
-    {
-      "@type": "Service",
-      "@id": "https://1euroseo.com/#strategy-engine",
-      "name": "Automated Strategy Consultant",
-      "description": "AI engine that codifies elite consulting frameworks â€” Positioning Theory, Pricing Psychology, Conversion Architecture, Competitive Intelligence, and Customer Journey Mapping â€” into a high-velocity diagnostic that produces enterprise-grade Strategic Fingerprints across 14+ specialized modules.",
-      "url": "https://1euroseo.com/generate/"
-    },
-    {
-      "@type": "Service",
-      "@id": "https://1euroseo.com/#mco-engine",
-      "name": "Model Context Optimization Engine",
-      "description": "Semantic Infrastructure Blueprint that transforms flat HTML into a High-Density Knowledge Graph optimized for LLM ingestion, RAG retrieval, and SGE citation. Executes Semantic Type Reclassification, repairs Ghost Nodes and orphan taxonomies, implements Persistent URI @id Strategy, and mandates Triangular Authority Chains linking Organization, CreativeWork, and credentialed Person entities for E-E-A-T Programmatic Verification.",
-      "url": "https://1euroseo.com/ai-seo/structured-data-audit/"
-    },
-    {
-      "@type": "Service",
-      "@id": "https://1euroseo.com/#mco-framework",
-      "name": "Machine Readability Framework",
-      "description": "Eight-pillar AI-era technical framework: Structured Data, Semantic HTML, URL & Canonical Hygiene, Internal Linking Architecture, Crawlability & Indexation, Media Metadata, Performance & Stability, Technical UX & Accessibility.",
-      "url": "https://1euroseo.com/ai-seo/machine-readability-framework/"
-    }
-  ],
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "@id": "https://1euroseo.com/#strategy-engine",
+          "name": "Automated Strategy Consultant",
+          "description": "AI engine that codifies elite consulting frameworks — Positioning Theory, Pricing Psychology, Conversion Architecture, Competitive Intelligence, and Customer Journey Mapping — into a high-velocity diagnostic that produces enterprise-grade Strategic Fingerprints across 14+ specialized modules.",
+          "url": "https://1euroseo.com/generate/"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "@id": "https://1euroseo.com/#mco-engine",
+          "name": "Model Context Optimization Engine",
+          "description": "Semantic Infrastructure Blueprint that transforms flat HTML into a High-Density Knowledge Graph optimized for LLM ingestion, RAG retrieval, and SGE citation. Executes Semantic Type Reclassification, repairs Ghost Nodes and orphan taxonomies, implements Persistent URI @id Strategy, and mandates Triangular Authority Chains linking Organization, CreativeWork, and credentialed Person entities for E-E-A-T Programmatic Verification.",
+          "url": "https://1euroseo.com/ai-seo/structured-data-audit/"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "@id": "https://1euroseo.com/#mco-framework",
+          "name": "Machine Readability Framework",
+          "description": "Eight-pillar AI-era technical framework: Structured Data, Semantic HTML, URL & Canonical Hygiene, Internal Linking Architecture, Crawlability & Indexation, Media Metadata, Performance & Stability, Technical UX & Accessibility.",
+          "url": "https://1euroseo.com/ai-seo/machine-readability-framework/"
+        }
+      }
+    ],
   "areaServed": {
     "@type": "Place",
     "name": "Global"
