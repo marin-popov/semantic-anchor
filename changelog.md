@@ -1,5 +1,15 @@
 # Changelog — Semantic Anchor Standard
 
+## 1.2 — 05.06.2026
+- Renamed the existing canonical identity file from `canonical-identity.jsonld` to `canonical-identity-v1.1.jsonld`.
+- Deployed the updated identity node as `canonical-identity.jsonld` (v1.2).
+- Updated the live website to use the new `canonical-identity-v1.2.jsonld` file.
+- Expanded the identity.jsonld with new provenance and authority references:
+  - IETF Internet-Draft (`draft-popov-webbotauth-semantic-anchor-00`)
+  - W3C WICG Issue #295
+  - IETF WebBotAuth mailing list archive
+  - Implemented a `@reverse` author property to bind the identity node to the protocol.
+
 ## 1.1 — 04.06.2026
 - Refined JSON‑LD reference architecture following a technical peer review and validation audit by [Álvaro Pichó Torres](https://www.linkedin.com/in/alvaropicho/).
 - Implemented the "Mirror Property Pattern" (`worksFor` → `Role` → `worksFor`) to resolve Schema.org domain/range conflicts, ensuring 100% deterministic adherence for all parsers.
