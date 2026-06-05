@@ -2,8 +2,8 @@
   Canonical identity.jsonld for 1 Euro SEO
   This file is NOT active. It is a reference copy.
   Live version: https://1euroseo.com/identity.jsonld
-  Version: 1.1
-  Published: 04.06.2026
+  Version: 1.2
+  Published: 05.06.2026
 */
 
 {
@@ -21,7 +21,21 @@
     "description": "The deterministic identity protocol for llms.txt and Model Context Optimization.",
     "author": { "@id": "https://marinpopov.com/#person" },
     "publisher": { "@id": "https://1euroseo.com/#identity" },
-    "datePublished": "2026-06-04"
+    "datePublished": "2026-06-05",
+    "citation": [
+      {
+        "@type": "TechArticle",
+        "url": "https://www.ietf.org/archive/id/draft-popov-webbotauth-semantic-anchor-00.html"
+      },
+      {
+        "@type": "CreativeWork",
+        "url": "https://github.com/WICG/proposals/issues/295"
+      },
+      {
+        "@type": "DiscussionForumPosting",
+        "url": "https://mailarchive.ietf.org/arch/msg/web-bot-auth/u5Ae0T0owgAo2HBPSnZSGQpiMMM/"
+      }
+    ]
   },
   "publishingPrinciples": "https://github.com/marin-popov/semantic-anchor",
   "logo": "https://1euroseo.com/wp-content/uploads/2026/03/1euroseo-logo.png",
@@ -51,6 +65,11 @@
       "https://www.linkedin.com/in/marin-popov/",
       "https://github.com/marin-popov/"
     ],
+    "@reverse": {
+      "author": {
+        "@id": "https://github.com/marin-popov/semantic-anchor#protocol"
+      }
+    },
     "subjectOf": {
       "@type": "CreativeWork",
       "@id": "https://github.com/marin-popov/semantic-anchor#protocol",
@@ -59,7 +78,21 @@
       "description": "The deterministic identity protocol for llms.txt and Model Context Optimization.",
       "author": { "@id": "https://marinpopov.com/#person" },
       "publisher": { "@id": "https://1euroseo.com/#identity" },
-      "datePublished": "2026-04-07"
+      "datePublished": "2026-04-07",
+      "citation": [
+        {
+          "@type": "TechArticle",
+          "url": "https://www.ietf.org/archive/id/draft-popov-webbotauth-semantic-anchor-00.html"
+        },
+        {
+          "@type": "CreativeWork",
+          "url": "https://github.com/WICG/proposals/issues/295"
+        },
+        {
+          "@type": "DiscussionForumPosting",
+          "url": "https://mailarchive.ietf.org/arch/msg/web-bot-auth/u5Ae0T0owgAo2HBPSnZSGQpiMMM/"
+        }
+      ]
     },
     "hasCredential": [
       {
